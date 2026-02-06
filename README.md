@@ -57,3 +57,11 @@ Any reuse, adaptation, or derivative conceptual work should provide appropriate 
 If you reference this work, please cite it as:
 
 > Arribas Arnau, R. (2026). *Artificial Souls: A Non-Anthropocentric Ontology for Secure Intelligent Object Ecosystems*. Version 1.0.
+
+---
+
+## DOI
+
+The preprint of this work is available at:
+
+https://doi.org/10.5281/zenodo.18510775
